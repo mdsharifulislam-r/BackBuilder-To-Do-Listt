@@ -1,4 +1,4 @@
-import React, { FormEvent, useState } from 'react'
+import { FormEvent, useState } from 'react'
 import toast from 'react-hot-toast'
 import { useAppDispatch, useAppSelector } from '../../lib/hooks/hooks'
 import { setChange } from '../../lib/store/features/userSlice'

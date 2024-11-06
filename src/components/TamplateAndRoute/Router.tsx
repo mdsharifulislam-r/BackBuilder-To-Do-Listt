@@ -1,4 +1,4 @@
-import React from 'react'
+
 import { createBrowserRouter, createRoutesFromElements, Route } from 'react-router-dom'
 import Tamplate from './Tamplate'
 import Home from '../Home/Home'

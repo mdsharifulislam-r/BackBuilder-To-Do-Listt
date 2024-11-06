@@ -1,4 +1,4 @@
-import React from 'react'
+
 import { useAppSelector } from '../../lib/hooks/hooks'
 import { Outlet } from 'react-router-dom'
 import Register from '../../page/Register'

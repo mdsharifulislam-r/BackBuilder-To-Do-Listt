@@ -1,6 +1,6 @@
-import React, { useEffect, useState } from 'react'
+import { useEffect, useState } from 'react'
 import TodoBox, { content } from './TodoBox'
-import { useSelector } from 'react-redux'
+
 import { useAppSelector } from '../../lib/hooks/hooks'
 import toast from 'react-hot-toast'
 
